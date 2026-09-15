@@ -1,0 +1,589 @@
+result_repr,element_type,analysis,n,sparsity,mean_ns,std_ns
+CSRMatrix,double,min,1024,0.001,11451.7,507.3118808429825
+CSRMatrix,double,min,1024,0.01,15074.4,1542.8513430226083
+CSRMatrix,double,min,1024,0.05,23107.0,3562.0490045914744
+CSRMatrix,double,min,1024,0.1,29849.7,5448.705698502066
+CSRMatrix,double,min,1024,0.2,39635.3,8466.977344037508
+CSRMatrix,double,min,1024,0.25,44627.9,10109.297826478574
+CSRMatrix,double,min,1024,1.0,125740.6,38533.18417272168
+CSRMatrix,double,min,2048,0.001,23135.5,1149.2595925686721
+CSRMatrix,double,min,2048,0.01,32222.8,3994.8287628438393
+CSRMatrix,double,min,2048,0.05,45282.3,7296.333722417643
+CSRMatrix,double,min,2048,0.1,55958.9,10705.328459852753
+CSRMatrix,double,min,2048,0.2,70020.1,15291.056052840531
+CSRMatrix,double,min,2048,0.25,76797.3,17576.059500544106
+CSRMatrix,double,min,2048,1.0,377755.7,123252.9021673639
+CSRMatrix,double,min,4096,0.001,49815.6,4330.693816622614
+CSRMatrix,double,min,4096,0.01,68344.3,9449.200742802419
+CSRMatrix,double,min,4096,0.05,89048.3,15451.890413293915
+CSRMatrix,double,min,4096,0.1,102798.7,19839.06609613131
+CSRMatrix,double,min,4096,0.2,127206.3,28502.933903761947
+CSRMatrix,double,min,4096,0.25,141658.1,33789.07854601674
+CSRMatrix,double,min,4096,1.0,1125878.9,379424.23292974086
+CSRMatrix,double,"min, max",1024,0.001,12223.1,751.704204532016
+CSRMatrix,double,"min, max",1024,0.01,16050.5,1648.7771394447325
+CSRMatrix,double,"min, max",1024,0.05,23016.9,3506.251669042978
+CSRMatrix,double,"min, max",1024,0.1,30035.1,5376.666655300683
+CSRMatrix,double,"min, max",1024,0.2,40184.7,8368.186330116912
+CSRMatrix,double,"min, max",1024,0.25,44920.1,10395.572555981063
+CSRMatrix,double,"min, max",1024,1.0,126996.2,39079.126041632226
+CSRMatrix,double,"min, max",2048,0.001,24726.6,1625.9333182992334
+CSRMatrix,double,"min, max",2048,0.01,32550.2,3740.7776018719246
+CSRMatrix,double,"min, max",2048,0.05,46206.9,7518.374476352363
+CSRMatrix,double,"min, max",2048,0.1,56207.3,10612.84951839043
+CSRMatrix,double,"min, max",2048,0.2,70613.2,15617.184536415149
+CSRMatrix,double,"min, max",2048,0.25,76606.9,17313.394348820733
+CSRMatrix,double,"min, max",2048,1.0,380432.9,124175.3543157149
+CSRMatrix,double,"min, max",4096,0.001,53179.1,4973.685699090096
+CSRMatrix,double,"min, max",4096,0.01,68445.2,9263.193183538573
+CSRMatrix,double,"min, max",4096,0.05,90923.8,16027.203144099165
+CSRMatrix,double,"min, max",4096,0.1,103608.1,19642.85205841781
+CSRMatrix,double,"min, max",4096,0.2,127089.4,28257.327428080982
+CSRMatrix,double,"min, max",4096,0.25,141206.7,33231.959814645634
+CSRMatrix,double,"min, max",4096,1.0,1135906.0,383514.1059610599
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.001,12764.9,1579.506635348871
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.01,16594.4,713.5247718194513
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.05,25359.9,2622.53755189723
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.1,34797.9,5810.499470785622
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.2,46835.7,8403.850255818594
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.25,50467.9,9749.292161770287
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,1.0,134879.2,37255.04200865524
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.001,25018.7,929.666612883947
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.01,34234.6,1545.4964826157907
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.05,51300.4,7277.797960616629
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.1,63149.6,10376.359565002662
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.2,81660.2,15152.113067159971
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.25,88197.9,17587.85087275368
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,1.0,389202.0,122761.46078201145
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.001,55419.1,4533.46417580787
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.01,71440.4,6177.454621444013
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.05,99859.3,15695.37035101611
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.1,117099.2,19973.57424087025
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.2,141674.4,28265.517559976382
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.25,155674.2,33079.69554071903
+CSRMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,1.0,1149969.2,382664.5238989949
+CSRMatrix,double,numDistinct,1024,0.001,11789.9,582.1171035300564
+CSRMatrix,double,numDistinct,1024,0.01,16373.1,1532.2705338447543
+CSRMatrix,double,numDistinct,1024,0.05,24013.9,3570.0807164855837
+CSRMatrix,double,numDistinct,1024,0.1,30905.4,5562.709895166005
+CSRMatrix,double,numDistinct,1024,0.2,43529.0,8932.428498951946
+CSRMatrix,double,numDistinct,1024,0.25,48742.1,10795.2833471125
+CSRMatrix,double,numDistinct,1024,1.0,130407.5,38822.65626108892
+CSRMatrix,double,numDistinct,2048,0.001,24724.6,1584.8025604331776
+CSRMatrix,double,numDistinct,2048,0.01,33572.3,3973.851841168157
+CSRMatrix,double,numDistinct,2048,0.05,48227.2,7889.663206443675
+CSRMatrix,double,numDistinct,2048,0.1,60389.0,11526.395890399663
+CSRMatrix,double,numDistinct,2048,0.2,75606.0,16229.050708186505
+CSRMatrix,double,numDistinct,2048,0.25,83073.7,18415.742885127147
+CSRMatrix,double,numDistinct,2048,1.0,387722.9,125217.84344222762
+CSRMatrix,double,numDistinct,4096,0.001,52052.8,4778.659477301139
+CSRMatrix,double,numDistinct,4096,0.01,70737.8,9636.905851983822
+CSRMatrix,double,numDistinct,4096,0.05,96257.3,16633.031193314637
+CSRMatrix,double,numDistinct,4096,0.1,110448.2,21705.97233123742
+CSRMatrix,double,numDistinct,4096,0.2,135014.0,29655.298934404436
+CSRMatrix,double,numDistinct,4096,0.25,148985.0,34914.164626345504
+CSRMatrix,double,numDistinct,4096,1.0,1148113.4,385773.18334315444
+CSRMatrix,double,numDistinctApprox,1024,0.001,11900.9,505.3556393493815
+CSRMatrix,double,numDistinctApprox,1024,0.01,15855.2,1611.0540235096607
+CSRMatrix,double,numDistinctApprox,1024,0.05,24759.7,3798.6081676202284
+CSRMatrix,double,numDistinctApprox,1024,0.1,32304.4,5823.074449502122
+CSRMatrix,double,numDistinctApprox,1024,0.2,44659.3,9158.999351578874
+CSRMatrix,double,numDistinctApprox,1024,0.25,49972.0,11195.172441726836
+CSRMatrix,double,numDistinctApprox,1024,1.0,132808.6,39239.763585764216
+CSRMatrix,double,numDistinctApprox,2048,0.001,23575.0,1079.611967329003
+CSRMatrix,double,numDistinctApprox,2048,0.01,32671.3,3925.2091536630246
+CSRMatrix,double,numDistinctApprox,2048,0.05,49013.0,8120.526433400457
+CSRMatrix,double,numDistinctApprox,2048,0.1,61301.6,11599.59622094187
+CSRMatrix,double,numDistinctApprox,2048,0.2,77853.2,16750.322449964293
+CSRMatrix,double,numDistinctApprox,2048,0.25,85349.8,18642.46235405136
+CSRMatrix,double,numDistinctApprox,2048,1.0,397508.2,128053.22098669235
+CSRMatrix,double,numDistinctApprox,4096,0.001,49861.4,4511.548642711897
+CSRMatrix,double,numDistinctApprox,4096,0.01,68992.6,8914.03381939587
+CSRMatrix,double,numDistinctApprox,4096,0.05,96794.4,17171.349259093702
+CSRMatrix,double,numDistinctApprox,4096,0.1,112689.1,22020.218802273514
+CSRMatrix,double,numDistinctApprox,4096,0.2,137691.1,30446.424601074075
+CSRMatrix,double,numDistinctApprox,4096,0.25,152630.9,35719.660050174054
+CSRMatrix,double,numDistinctApprox,4096,1.0,1163306.3,390779.3920007241
+CSRMatrix,double,sparsity,1024,0.001,12157.7,1089.5823919690008
+CSRMatrix,double,sparsity,1024,0.01,15540.5,1586.851687391666
+CSRMatrix,double,sparsity,1024,0.05,22672.3,3395.281727796843
+CSRMatrix,double,sparsity,1024,0.1,29231.3,5113.467795928708
+CSRMatrix,double,sparsity,1024,0.2,40092.0,8535.56438282398
+CSRMatrix,double,sparsity,1024,0.25,43912.5,9703.392971876727
+CSRMatrix,double,sparsity,1024,1.0,126353.6,38713.06831664068
+CSRMatrix,double,sparsity,2048,0.001,25277.2,1345.9984150560258
+CSRMatrix,double,sparsity,2048,0.01,32561.0,3860.2104720971997
+CSRMatrix,double,sparsity,2048,0.05,46207.8,7640.000709714916
+CSRMatrix,double,sparsity,2048,0.1,57235.0,11012.041116684753
+CSRMatrix,double,sparsity,2048,0.2,70683.1,15497.273498192439
+CSRMatrix,double,sparsity,2048,0.25,76589.7,17338.481710089585
+CSRMatrix,double,sparsity,2048,1.0,380282.5,124215.44469209759
+CSRMatrix,double,sparsity,4096,0.001,52001.3,3796.531108203324
+CSRMatrix,double,sparsity,4096,0.01,68360.0,8997.324429456172
+CSRMatrix,double,sparsity,4096,0.05,92360.7,16090.109156801198
+CSRMatrix,double,sparsity,4096,0.1,105980.4,20601.61517508329
+CSRMatrix,double,sparsity,4096,0.2,128679.7,28454.745380652726
+CSRMatrix,double,sparsity,4096,0.25,142568.1,33326.975525174144
+CSRMatrix,double,sparsity,4096,1.0,1127919.4,379614.97865196696
+CSRMatrix,double,symmetry,1024,0.001,12538.6,1397.7770605898177
+CSRMatrix,double,symmetry,1024,0.01,15788.6,1174.3354811220784
+CSRMatrix,double,symmetry,1024,0.05,24294.0,2717.7544652402526
+CSRMatrix,double,symmetry,1024,0.1,33442.5,5472.638998793098
+CSRMatrix,double,symmetry,1024,0.2,44634.7,8303.09864582026
+CSRMatrix,double,symmetry,1024,0.25,49031.1,9670.090651649089
+CSRMatrix,double,symmetry,1024,1.0,136764.2,39342.32120701009
+CSRMatrix,double,symmetry,2048,0.001,24944.5,773.5869196297352
+CSRMatrix,double,symmetry,2048,0.01,33043.1,1674.5958351528022
+CSRMatrix,double,symmetry,2048,0.05,49199.9,7186.960498786057
+CSRMatrix,double,symmetry,2048,0.1,60979.9,10624.561109366668
+CSRMatrix,double,symmetry,2048,0.2,77336.7,15738.62709705011
+CSRMatrix,double,symmetry,2048,0.25,85125.5,18264.683628674098
+CSRMatrix,double,symmetry,2048,1.0,388117.6,123946.60880413164
+CSRMatrix,double,symmetry,4096,0.001,50986.1,3812.219197673596
+CSRMatrix,double,symmetry,4096,0.01,68889.9,6861.078121468148
+CSRMatrix,double,symmetry,4096,0.05,94955.6,15665.639946498623
+CSRMatrix,double,symmetry,4096,0.1,110277.7,20163.70833425461
+CSRMatrix,double,symmetry,4096,0.2,135305.9,29083.28309241124
+CSRMatrix,double,symmetry,4096,0.25,149866.6,33853.9600119231
+CSRMatrix,double,symmetry,4096,1.0,1134492.0,380553.8930967743
+CSRMatrix,int64_t,min,1024,0.001,11765.4,780.7132351610003
+CSRMatrix,int64_t,min,1024,0.01,15223.8,1655.7989545164528
+CSRMatrix,int64_t,min,1024,0.05,23577.3,3890.644335382565
+CSRMatrix,int64_t,min,1024,0.1,29690.7,5283.123992698091
+CSRMatrix,int64_t,min,1024,0.2,39976.8,8624.53615886417
+CSRMatrix,int64_t,min,1024,0.25,43970.0,9922.275948591632
+CSRMatrix,int64_t,min,1024,1.0,125251.5,37873.82004689314
+CSRMatrix,int64_t,min,2048,0.001,23754.6,1528.0253924591698
+CSRMatrix,int64_t,min,2048,0.01,31889.4,3834.567198524496
+CSRMatrix,int64_t,min,2048,0.05,45510.6,7190.156839581303
+CSRMatrix,int64_t,min,2048,0.1,57393.0,10953.46319663329
+CSRMatrix,int64_t,min,2048,0.2,70508.4,15413.154513091875
+CSRMatrix,int64_t,min,2048,0.25,76444.1,17382.442511211004
+CSRMatrix,int64_t,min,2048,1.0,379226.4,123726.6524832508
+CSRMatrix,int64_t,min,4096,0.001,49925.6,4334.444247343982
+CSRMatrix,int64_t,min,4096,0.01,67544.0,8926.362665971199
+CSRMatrix,int64_t,min,4096,0.05,92050.5,16344.70727279425
+CSRMatrix,int64_t,min,4096,0.1,106437.3,21128.96154071205
+CSRMatrix,int64_t,min,4096,0.2,129476.8,29139.25795516725
+CSRMatrix,int64_t,min,4096,0.25,142874.9,33623.98071961934
+CSRMatrix,int64_t,min,4096,1.0,1026156.1,344861.3209246259
+CSRMatrix,int64_t,"min, max",1024,0.001,11926.9,745.4255235173472
+CSRMatrix,int64_t,"min, max",1024,0.01,15793.8,1643.1484547795565
+CSRMatrix,int64_t,"min, max",1024,0.05,23847.1,3721.473108864284
+CSRMatrix,int64_t,"min, max",1024,0.1,30219.8,5407.071846716628
+CSRMatrix,int64_t,"min, max",1024,0.2,39807.4,8367.680140477009
+CSRMatrix,int64_t,"min, max",1024,0.25,44747.5,10130.614298035216
+CSRMatrix,int64_t,"min, max",1024,1.0,124924.7,38189.494916941636
+CSRMatrix,int64_t,"min, max",2048,0.001,24578.8,1497.1399251758519
+CSRMatrix,int64_t,"min, max",2048,0.01,33210.7,4104.332806789539
+CSRMatrix,int64_t,"min, max",2048,0.05,47471.1,7985.759665387716
+CSRMatrix,int64_t,"min, max",2048,0.1,57018.6,10851.08697269029
+CSRMatrix,int64_t,"min, max",2048,0.2,70605.6,15283.807344157847
+CSRMatrix,int64_t,"min, max",2048,0.25,77276.9,17502.860162778477
+CSRMatrix,int64_t,"min, max",2048,1.0,377963.6,123220.85575294828
+CSRMatrix,int64_t,"min, max",4096,0.001,51420.7,5370.412937775104
+CSRMatrix,int64_t,"min, max",4096,0.01,69697.0,9591.192846680862
+CSRMatrix,int64_t,"min, max",4096,0.05,92288.9,15994.670601658403
+CSRMatrix,int64_t,"min, max",4096,0.1,106113.9,20464.443100982087
+CSRMatrix,int64_t,"min, max",4096,0.2,129765.9,28671.744265236306
+CSRMatrix,int64_t,"min, max",4096,0.25,143743.8,33786.37854323346
+CSRMatrix,int64_t,"min, max",4096,1.0,1026140.9,344392.903016453
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.001,12863.4,1505.4300382282797
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.01,16947.3,663.3904581767817
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.05,25520.2,2909.9193115961134
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.1,35095.5,5921.474914805151
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.2,46579.1,8673.902126494164
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.25,52012.0,10049.245477480717
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,1.0,134434.7,36960.56095067943
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.001,25547.2,558.7316589085203
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.01,34643.9,1517.9835638108862
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.05,51829.1,7674.760415370198
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.1,64202.6,10227.761253894552
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.2,82545.6,15293.80060460229
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.25,89331.3,17521.42919747765
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,1.0,382195.5,119614.67819372707
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.001,53861.4,5024.668174781959
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.01,71588.5,6555.208806742922
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.05,100884.1,15914.543351915569
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.1,119329.2,21060.777762360904
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.2,144702.5,28704.52724745698
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.25,158351.4,34141.47475236924
+CSRMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,1.0,1127201.2,374212.0503210862
+CSRMatrix,int64_t,numDistinct,1024,0.001,12511.6,842.766107001884
+CSRMatrix,int64_t,numDistinct,1024,0.01,15851.0,1588.8737450715769
+CSRMatrix,int64_t,numDistinct,1024,0.05,23830.0,3693.129837955877
+CSRMatrix,int64_t,numDistinct,1024,0.1,31003.1,5478.712834436773
+CSRMatrix,int64_t,numDistinct,1024,0.2,41091.3,8502.357490719854
+CSRMatrix,int64_t,numDistinct,1024,0.25,44803.8,9901.954350306587
+CSRMatrix,int64_t,numDistinct,1024,1.0,126802.2,38056.678373768314
+CSRMatrix,int64_t,numDistinct,2048,0.001,25179.0,1661.8664206247142
+CSRMatrix,int64_t,numDistinct,2048,0.01,32301.1,3702.8639801585423
+CSRMatrix,int64_t,numDistinct,2048,0.05,47635.0,7914.200331612088
+CSRMatrix,int64_t,numDistinct,2048,0.1,57774.9,11076.312056215584
+CSRMatrix,int64_t,numDistinct,2048,0.2,71390.6,15022.619738987676
+CSRMatrix,int64_t,numDistinct,2048,0.25,78237.7,17461.050407820385
+CSRMatrix,int64_t,numDistinct,2048,1.0,383078.8,124404.19847756122
+CSRMatrix,int64_t,numDistinct,4096,0.001,50532.7,4734.456065202562
+CSRMatrix,int64_t,numDistinct,4096,0.01,68607.8,9078.535011528871
+CSRMatrix,int64_t,numDistinct,4096,0.05,91336.1,15740.071046359493
+CSRMatrix,int64_t,numDistinct,4096,0.1,104334.2,19920.78638452252
+CSRMatrix,int64_t,numDistinct,4096,0.2,129936.3,28709.403748017245
+CSRMatrix,int64_t,numDistinct,4096,0.25,144318.4,33665.90518676788
+CSRMatrix,int64_t,numDistinct,4096,1.0,1033174.0,346098.2228982595
+CSRMatrix,int64_t,numDistinctApprox,1024,0.001,12013.2,670.8995288251274
+CSRMatrix,int64_t,numDistinctApprox,1024,0.01,15824.5,1702.3486553712912
+CSRMatrix,int64_t,numDistinctApprox,1024,0.05,24690.9,3702.624968256379
+CSRMatrix,int64_t,numDistinctApprox,1024,0.1,32404.7,5765.917794342121
+CSRMatrix,int64_t,numDistinctApprox,1024,0.2,45363.5,9126.702170006427
+CSRMatrix,int64_t,numDistinctApprox,1024,0.25,48860.0,10678.695571609442
+CSRMatrix,int64_t,numDistinctApprox,1024,1.0,133545.0,39450.962418904026
+CSRMatrix,int64_t,numDistinctApprox,2048,0.001,24332.2,1603.7681877378661
+CSRMatrix,int64_t,numDistinctApprox,2048,0.01,32888.9,3845.1065423759355
+CSRMatrix,int64_t,numDistinctApprox,2048,0.05,49143.5,7650.568029020241
+CSRMatrix,int64_t,numDistinctApprox,2048,0.1,62229.1,11663.397536738597
+CSRMatrix,int64_t,numDistinctApprox,2048,0.2,78510.4,16454.434385093078
+CSRMatrix,int64_t,numDistinctApprox,2048,0.25,85022.0,18900.813580372673
+CSRMatrix,int64_t,numDistinctApprox,2048,1.0,393519.0,126856.96256545532
+CSRMatrix,int64_t,numDistinctApprox,4096,0.001,52403.0,5206.682927844859
+CSRMatrix,int64_t,numDistinctApprox,4096,0.01,68884.6,9237.09036920658
+CSRMatrix,int64_t,numDistinctApprox,4096,0.05,98931.8,17987.896256464606
+CSRMatrix,int64_t,numDistinctApprox,4096,0.1,115380.2,22583.830940643256
+CSRMatrix,int64_t,numDistinctApprox,4096,0.2,139384.9,30739.695098791504
+CSRMatrix,int64_t,numDistinctApprox,4096,0.25,155069.0,36307.72933932633
+CSRMatrix,int64_t,numDistinctApprox,4096,1.0,1054154.3,351746.70739738276
+CSRMatrix,int64_t,sparsity,1024,0.001,11634.5,644.3593286703036
+CSRMatrix,int64_t,sparsity,1024,0.01,15246.9,1657.3369837717908
+CSRMatrix,int64_t,sparsity,1024,0.05,22838.4,3550.4790975616547
+CSRMatrix,int64_t,sparsity,1024,0.1,29436.8,5033.441694197807
+CSRMatrix,int64_t,sparsity,1024,0.2,39745.8,8409.918017832675
+CSRMatrix,int64_t,sparsity,1024,0.25,43267.9,9620.982884069359
+CSRMatrix,int64_t,sparsity,1024,1.0,124194.2,37960.71350400745
+CSRMatrix,int64_t,sparsity,2048,0.001,24097.8,1536.1967321928544
+CSRMatrix,int64_t,sparsity,2048,0.01,31938.2,3529.481730918704
+CSRMatrix,int64_t,sparsity,2048,0.05,46463.5,7408.100060069383
+CSRMatrix,int64_t,sparsity,2048,0.1,57111.4,10871.202460323022
+CSRMatrix,int64_t,sparsity,2048,0.2,69632.0,15094.601750294703
+CSRMatrix,int64_t,sparsity,2048,0.25,76648.7,17750.177094891194
+CSRMatrix,int64_t,sparsity,2048,1.0,377277.7,123082.91453781155
+CSRMatrix,int64_t,sparsity,4096,0.001,50300.2,4185.132516154988
+CSRMatrix,int64_t,sparsity,4096,0.01,67780.1,8587.762875808292
+CSRMatrix,int64_t,sparsity,4096,0.05,91984.4,15612.29375417548
+CSRMatrix,int64_t,sparsity,4096,0.1,105124.1,20286.616406170626
+CSRMatrix,int64_t,sparsity,4096,0.2,128107.5,28102.46606517735
+CSRMatrix,int64_t,sparsity,4096,0.25,144833.6,35172.34964570891
+CSRMatrix,int64_t,sparsity,4096,1.0,1023620.4,343233.46984788973
+CSRMatrix,int64_t,symmetry,1024,0.001,12461.2,1608.6355018393003
+CSRMatrix,int64_t,symmetry,1024,0.01,15970.4,655.1068106296357
+CSRMatrix,int64_t,symmetry,1024,0.05,24616.1,2732.919661786233
+CSRMatrix,int64_t,symmetry,1024,0.1,33871.0,5271.585277061667
+CSRMatrix,int64_t,symmetry,1024,0.2,44843.8,8288.876010118085
+CSRMatrix,int64_t,symmetry,1024,0.25,48503.5,9599.577991303113
+CSRMatrix,int64_t,symmetry,1024,1.0,132947.1,38028.57578906215
+CSRMatrix,int64_t,symmetry,2048,0.001,24976.8,992.4870891967423
+CSRMatrix,int64_t,symmetry,2048,0.01,33047.4,1615.9186723209666
+CSRMatrix,int64_t,symmetry,2048,0.05,50021.9,7067.667923564164
+CSRMatrix,int64_t,symmetry,2048,0.1,62560.5,10678.788521071936
+CSRMatrix,int64_t,symmetry,2048,0.2,78145.7,15467.010384470987
+CSRMatrix,int64_t,symmetry,2048,0.25,84198.2,17337.93633625409
+CSRMatrix,int64_t,symmetry,2048,1.0,385517.3,123165.6106233933
+CSRMatrix,int64_t,symmetry,4096,0.001,53282.0,4769.106624935115
+CSRMatrix,int64_t,symmetry,4096,0.01,68820.2,6686.436649416988
+CSRMatrix,int64_t,symmetry,4096,0.05,98036.3,16430.17493685188
+CSRMatrix,int64_t,symmetry,4096,0.1,113619.6,20460.5216410096
+CSRMatrix,int64_t,symmetry,4096,0.2,137667.7,28836.279098270174
+CSRMatrix,int64_t,symmetry,4096,0.25,175927.5,83835.205319391
+CSRMatrix,int64_t,symmetry,4096,1.0,1034251.2,344556.9187698569
+DenseMatrix,double,min,1024,0.001,9115.4,4120.848785276052
+DenseMatrix,double,min,1024,0.01,15961.1,2269.6007700817254
+DenseMatrix,double,min,1024,0.05,17828.1,221.38124481435938
+DenseMatrix,double,min,1024,0.1,17385.0,154.25519980430684
+DenseMatrix,double,min,1024,0.2,17091.8,194.01534876281133
+DenseMatrix,double,min,1024,0.25,16915.0,244.46767566376607
+DenseMatrix,double,min,1024,1.0,16446.2,136.75428085925978
+DenseMatrix,double,min,2048,0.001,14206.7,3018.7340264127647
+DenseMatrix,double,min,2048,0.01,21040.7,578.5867936427327
+DenseMatrix,double,min,2048,0.05,21179.1,159.28203497779225
+DenseMatrix,double,min,2048,0.1,20910.3,353.06909931186095
+DenseMatrix,double,min,2048,0.2,20155.1,448.73958050422846
+DenseMatrix,double,min,2048,0.25,19791.3,500.6260635999247
+DenseMatrix,double,min,2048,1.0,18585.5,228.8193125104999
+DenseMatrix,double,min,4096,0.001,27664.0,3096.3669392083075
+DenseMatrix,double,min,4096,0.01,29374.3,235.78099537023257
+DenseMatrix,double,min,4096,0.05,28391.1,510.5666677547825
+DenseMatrix,double,min,4096,0.1,27506.7,274.48904046124227
+DenseMatrix,double,min,4096,0.2,25816.2,476.6887640565674
+DenseMatrix,double,min,4096,0.25,25341.0,962.5416585501347
+DenseMatrix,double,min,4096,1.0,23063.7,331.38498926642905
+DenseMatrix,double,"min, max",1024,0.001,8227.8,3581.628022127492
+DenseMatrix,double,"min, max",1024,0.01,15505.4,2172.6979746133347
+DenseMatrix,double,"min, max",1024,0.05,17258.1,230.7381632933746
+DenseMatrix,double,"min, max",1024,0.1,17320.5,87.02138945237651
+DenseMatrix,double,"min, max",1024,0.2,17080.7,203.84473939196312
+DenseMatrix,double,"min, max",1024,0.25,17099.3,459.05871084208906
+DenseMatrix,double,"min, max",1024,1.0,17094.4,85.81401077006251
+DenseMatrix,double,"min, max",2048,0.001,13550.0,2874.1659273218343
+DenseMatrix,double,"min, max",2048,0.01,20528.4,484.7086639300859
+DenseMatrix,double,"min, max",2048,0.05,21059.0,133.89465178929865
+DenseMatrix,double,"min, max",2048,0.1,20880.2,434.22237006707377
+DenseMatrix,double,"min, max",2048,0.2,20113.2,254.98967299350235
+DenseMatrix,double,"min, max",2048,0.25,20014.5,435.7584065613532
+DenseMatrix,double,"min, max",2048,1.0,19978.6,394.1145349599113
+DenseMatrix,double,"min, max",4096,0.001,25713.1,2791.170620605865
+DenseMatrix,double,"min, max",4096,0.01,28802.5,512.5373157146705
+DenseMatrix,double,"min, max",4096,0.05,28294.5,222.984927243475
+DenseMatrix,double,"min, max",4096,0.1,27526.0,386.62298603850945
+DenseMatrix,double,"min, max",4096,0.2,26255.1,562.2823430744857
+DenseMatrix,double,"min, max",4096,0.25,25679.0,372.592121345701
+DenseMatrix,double,"min, max",4096,1.0,25467.5,154.84562204552844
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.001,26998.8,19937.740175077237
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.01,62983.9,12105.357073534751
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.05,75864.9,7081.13257498011
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.1,94070.0,14204.002659657437
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.2,106055.2,18156.805750645315
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.25,103768.8,19951.57715737447
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,1.0,114776.4,8347.84667111492
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.001,36440.8,13565.793934254887
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.01,82470.3,7166.336349752067
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.05,89442.7,8280.35564252325
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.1,111558.3,15703.4250832245
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.2,115072.8,19373.467817840174
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.25,105085.3,13346.476639090099
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,1.0,133650.4,15085.881870882533
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.001,69364.9,13954.551980944743
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.01,93457.7,12744.900889288143
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.05,110904.8,13802.24650635621
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.1,108737.3,13208.300320042865
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.2,128133.1,18625.79852098815
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.25,120782.0,12162.403316961841
+DenseMatrix,double,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,1.0,173528.1,28060.849042551956
+DenseMatrix,double,numDistinct,1024,0.001,9838.6,4282.247286439939
+DenseMatrix,double,numDistinct,1024,0.01,18706.5,2604.3700133941543
+DenseMatrix,double,numDistinct,1024,0.05,21990.4,381.80076246940894
+DenseMatrix,double,numDistinct,1024,0.1,22361.9,297.4149551645908
+DenseMatrix,double,numDistinct,1024,0.2,24608.1,670.6297952091174
+DenseMatrix,double,numDistinct,1024,0.25,24929.2,413.1894373179343
+DenseMatrix,double,numDistinct,1024,1.0,34561.4,1578.3191622031889
+DenseMatrix,double,numDistinct,2048,0.001,15149.7,3400.589689058846
+DenseMatrix,double,numDistinct,2048,0.01,24003.6,618.8236510599048
+DenseMatrix,double,numDistinct,2048,0.05,26166.8,449.50511058768177
+DenseMatrix,double,numDistinct,2048,0.1,27946.1,507.1932460994423
+DenseMatrix,double,numDistinct,2048,0.2,28744.2,556.3709394120278
+DenseMatrix,double,numDistinct,2048,0.25,29963.7,2333.924546528634
+DenseMatrix,double,numDistinct,2048,1.0,45481.8,6359.75076031548
+DenseMatrix,double,numDistinct,4096,0.001,28173.0,3162.5804864593306
+DenseMatrix,double,numDistinct,4096,0.01,32831.5,286.4189821456212
+DenseMatrix,double,numDistinct,4096,0.05,35407.2,472.82738217380535
+DenseMatrix,double,numDistinct,4096,0.1,35810.8,569.3955469521072
+DenseMatrix,double,numDistinct,4096,0.2,36182.0,529.6464229401852
+DenseMatrix,double,numDistinct,4096,0.25,39109.9,2999.6624050790188
+DenseMatrix,double,numDistinct,4096,1.0,72180.6,14184.33963684363
+DenseMatrix,double,numDistinctApprox,1024,0.001,24602.0,18685.275688508198
+DenseMatrix,double,numDistinctApprox,1024,0.01,60401.2,11092.628731629748
+DenseMatrix,double,numDistinctApprox,1024,0.05,75934.0,9229.564646046721
+DenseMatrix,double,numDistinctApprox,1024,0.1,85946.0,18003.41064601063
+DenseMatrix,double,numDistinctApprox,1024,0.2,85831.0,11176.112074917246
+DenseMatrix,double,numDistinctApprox,1024,0.25,88787.8,12781.744454059817
+DenseMatrix,double,numDistinctApprox,1024,1.0,97200.9,13348.957158186968
+DenseMatrix,double,numDistinctApprox,2048,0.001,34524.9,13040.649570136877
+DenseMatrix,double,numDistinctApprox,2048,0.01,73160.8,5616.951423048707
+DenseMatrix,double,numDistinctApprox,2048,0.05,83158.2,9187.59959946013
+DenseMatrix,double,numDistinctApprox,2048,0.1,90193.5,14960.41981919848
+DenseMatrix,double,numDistinctApprox,2048,0.2,93632.9,16447.946115954215
+DenseMatrix,double,numDistinctApprox,2048,0.25,99503.0,13740.280306052304
+DenseMatrix,double,numDistinctApprox,2048,1.0,115982.0,18635.794691340045
+DenseMatrix,double,numDistinctApprox,4096,0.001,65689.4,11902.52719383577
+DenseMatrix,double,numDistinctApprox,4096,0.01,89096.8,13315.556781449286
+DenseMatrix,double,numDistinctApprox,4096,0.05,92969.6,8420.388684615456
+DenseMatrix,double,numDistinctApprox,4096,0.1,102665.0,11537.43226776796
+DenseMatrix,double,numDistinctApprox,4096,0.2,110911.8,13345.309311597923
+DenseMatrix,double,numDistinctApprox,4096,0.25,107219.7,5600.107936459797
+DenseMatrix,double,numDistinctApprox,4096,1.0,143366.2,24750.613176691648
+DenseMatrix,double,sparsity,1024,0.001,4645.2,426.96364664401534
+DenseMatrix,double,sparsity,1024,0.01,5313.1,277.74906740517486
+DenseMatrix,double,sparsity,1024,0.05,5407.4,89.44669424361705
+DenseMatrix,double,sparsity,1024,0.1,5188.0,78.67231618131841
+DenseMatrix,double,sparsity,1024,0.2,4847.0,135.12874519426947
+DenseMatrix,double,sparsity,1024,0.25,4708.6,168.4077063425413
+DenseMatrix,double,sparsity,1024,1.0,4287.8,114.73525080714208
+DenseMatrix,double,sparsity,2048,0.001,8426.6,288.43493392984
+DenseMatrix,double,sparsity,2048,0.01,9130.8,87.17899849033458
+DenseMatrix,double,sparsity,2048,0.05,8893.7,85.17700524332959
+DenseMatrix,double,sparsity,2048,0.1,8454.2,174.26212694928537
+DenseMatrix,double,sparsity,2048,0.2,7762.7,254.32527291727115
+DenseMatrix,double,sparsity,2048,0.25,7360.8,292.8013357589446
+DenseMatrix,double,sparsity,2048,1.0,6397.9,118.45528926795768
+DenseMatrix,double,sparsity,4096,0.001,16564.3,662.7147953682638
+DenseMatrix,double,sparsity,4096,0.01,16566.0,136.1020858685782
+DenseMatrix,double,sparsity,4096,0.05,15983.4,173.39370743420233
+DenseMatrix,double,sparsity,4096,0.1,15116.2,318.93461538203877
+DenseMatrix,double,sparsity,4096,0.2,13514.5,423.79063227022846
+DenseMatrix,double,sparsity,4096,0.25,12889.6,576.6397296213447
+DenseMatrix,double,sparsity,4096,1.0,10805.2,188.93784986368178
+DenseMatrix,double,symmetry,1024,0.001,5695.2,3473.762379131115
+DenseMatrix,double,symmetry,1024,0.01,7337.6,6151.6445172544445
+DenseMatrix,double,symmetry,1024,0.05,8855.9,8359.315993415836
+DenseMatrix,double,symmetry,1024,0.1,11078.2,8098.365881803288
+DenseMatrix,double,symmetry,1024,0.2,11351.6,8013.075470060724
+DenseMatrix,double,symmetry,1024,0.25,11169.2,7738.05359965354
+DenseMatrix,double,symmetry,1024,1.0,14537.3,5137.326824331892
+DenseMatrix,double,symmetry,2048,0.001,9574.8,3293.195503188692
+DenseMatrix,double,symmetry,2048,0.01,11751.3,8183.182185297952
+DenseMatrix,double,symmetry,2048,0.05,14656.2,7756.373362166968
+DenseMatrix,double,symmetry,2048,0.1,14878.1,7728.429356746571
+DenseMatrix,double,symmetry,2048,0.2,16567.8,6858.193506877579
+DenseMatrix,double,symmetry,2048,0.25,16002.9,6933.261160682051
+DenseMatrix,double,symmetry,2048,1.0,16024.2,5861.603133007974
+DenseMatrix,double,symmetry,4096,0.001,19211.3,6715.553655507489
+DenseMatrix,double,symmetry,4096,0.01,19088.1,7868.037288083138
+DenseMatrix,double,symmetry,4096,0.05,22381.3,7890.650558308442
+DenseMatrix,double,symmetry,4096,0.1,23770.5,6477.608444994701
+DenseMatrix,double,symmetry,4096,0.2,22924.6,6137.223389557637
+DenseMatrix,double,symmetry,4096,0.25,21997.6,6021.093887326454
+DenseMatrix,double,symmetry,4096,1.0,20336.1,5373.699128367928
+DenseMatrix,int64_t,min,1024,0.001,6606.0,2151.355851550366
+DenseMatrix,int64_t,min,1024,0.01,10416.5,1330.380501126568
+DenseMatrix,int64_t,min,1024,0.05,11022.1,217.20366786344414
+DenseMatrix,int64_t,min,1024,0.1,10903.3,158.3161745088327
+DenseMatrix,int64_t,min,1024,0.2,10850.6,425.6556250199348
+DenseMatrix,int64_t,min,1024,0.25,10601.1,178.55559358362325
+DenseMatrix,int64_t,min,1024,1.0,10216.7,113.375531359774
+DenseMatrix,int64_t,min,2048,0.001,11124.2,1658.5765516785102
+DenseMatrix,int64_t,min,2048,0.01,14936.5,651.5593688307389
+DenseMatrix,int64_t,min,2048,0.05,14507.3,175.61956990419196
+DenseMatrix,int64_t,min,2048,0.1,14198.0,312.46902068667356
+DenseMatrix,int64_t,min,2048,0.2,13397.5,231.54709144266002
+DenseMatrix,int64_t,min,2048,0.25,13139.6,310.50432095758885
+DenseMatrix,int64_t,min,2048,1.0,12271.0,169.2375056934286
+DenseMatrix,int64_t,min,4096,0.001,20893.2,1674.1495884312242
+DenseMatrix,int64_t,min,4096,0.01,22382.7,549.2928888833153
+DenseMatrix,int64_t,min,4096,0.05,21166.9,735.7654291054092
+DenseMatrix,int64_t,min,4096,0.1,20453.7,780.5745818163555
+DenseMatrix,int64_t,min,4096,0.2,18959.3,529.6097200350042
+DenseMatrix,int64_t,min,4096,0.25,18404.1,658.4389704276151
+DenseMatrix,int64_t,min,4096,1.0,16737.4,625.9970180972643
+DenseMatrix,int64_t,"min, max",1024,0.001,5071.3,2006.4208071976218
+DenseMatrix,int64_t,"min, max",1024,0.01,9955.9,1270.6609347544734
+DenseMatrix,int64_t,"min, max",1024,0.05,10905.4,249.35436631428786
+DenseMatrix,int64_t,"min, max",1024,0.1,10934.8,124.32913308365553
+DenseMatrix,int64_t,"min, max",1024,0.2,10673.2,152.54711476203744
+DenseMatrix,int64_t,"min, max",1024,0.25,10584.7,187.35886540125202
+DenseMatrix,int64_t,"min, max",1024,1.0,10522.5,439.3204980421471
+DenseMatrix,int64_t,"min, max",2048,0.001,8510.4,1997.1666152048729
+DenseMatrix,int64_t,"min, max",2048,0.01,13883.2,608.5919632872075
+DenseMatrix,int64_t,"min, max",2048,0.05,14283.3,388.4007237663471
+DenseMatrix,int64_t,"min, max",2048,0.1,14089.3,399.6932295871142
+DenseMatrix,int64_t,"min, max",2048,0.2,13507.9,402.97158708772514
+DenseMatrix,int64_t,"min, max",2048,0.25,13131.2,295.8317089157279
+DenseMatrix,int64_t,"min, max",2048,1.0,12483.6,158.665406157458
+DenseMatrix,int64_t,"min, max",4096,0.001,16024.2,1667.788742283893
+DenseMatrix,int64_t,"min, max",4096,0.01,20833.9,800.8922038715463
+DenseMatrix,int64_t,"min, max",4096,0.05,20531.7,439.6994048968756
+DenseMatrix,int64_t,"min, max",4096,0.1,20440.8,496.2158580474607
+DenseMatrix,int64_t,"min, max",4096,0.2,19089.1,685.0569238310703
+DenseMatrix,int64_t,"min, max",4096,0.25,18331.9,674.2301700622882
+DenseMatrix,int64_t,"min, max",4096,1.0,17037.1,327.55608510435144
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.001,24844.1,19777.723616061918
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.01,62756.0,8677.645750880694
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.05,90699.3,18801.673400997526
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.1,84469.3,14238.313133935495
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.2,92467.9,18592.821777652673
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,0.25,98266.5,17504.763943630376
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",1024,1.0,108215.2,12713.440523931968
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.001,35014.9,13638.871747488662
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.01,85984.7,17084.93003302423
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.05,102709.9,19737.8943853357
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.1,110030.4,18245.32659310019
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.2,106612.6,15419.250177763004
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,0.25,106466.9,11630.229800442941
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",2048,1.0,136290.7,16530.575798602218
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.001,64924.5,13424.850144001202
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.01,89238.3,10935.846124354328
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.05,107143.6,11202.56830870096
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.1,115805.5,18538.396713907652
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.2,117916.6,3745.9940143512727
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,0.25,125371.7,9620.321397380072
+DenseMatrix,int64_t,"min, max, mean, sparsity, symmetry, numDistinctApprox",4096,1.0,178030.3,11484.376527845703
+DenseMatrix,int64_t,numDistinct,1024,0.001,13398.0,8265.74031099991
+DenseMatrix,int64_t,numDistinct,1024,0.01,31006.8,5000.869253328755
+DenseMatrix,int64_t,numDistinct,1024,0.05,35569.2,626.0242806792717
+DenseMatrix,int64_t,numDistinct,1024,0.1,35838.9,392.96266432773814
+DenseMatrix,int64_t,numDistinct,1024,0.2,36098.9,469.25767619365195
+DenseMatrix,int64_t,numDistinct,1024,0.25,35983.9,658.4728881620309
+DenseMatrix,int64_t,numDistinct,1024,1.0,36410.1,3213.7413451199413
+DenseMatrix,int64_t,numDistinct,2048,0.001,20756.5,6470.340541441557
+DenseMatrix,int64_t,numDistinct,2048,0.01,37377.5,1304.8075422154116
+DenseMatrix,int64_t,numDistinct,2048,0.05,39290.7,400.8790479821951
+DenseMatrix,int64_t,numDistinct,2048,0.1,39275.7,327.47384967692017
+DenseMatrix,int64_t,numDistinct,2048,0.2,39160.4,641.7651353017621
+DenseMatrix,int64_t,numDistinct,2048,0.25,39026.6,1146.798267641989
+DenseMatrix,int64_t,numDistinct,2048,1.0,39104.1,4563.57458456514
+DenseMatrix,int64_t,numDistinct,4096,0.001,38931.4,6198.291130088465
+DenseMatrix,int64_t,numDistinct,4096,0.01,46308.9,661.833555779363
+DenseMatrix,int64_t,numDistinct,4096,0.05,46511.8,426.0111631296889
+DenseMatrix,int64_t,numDistinct,4096,0.1,45780.2,296.5313549094668
+DenseMatrix,int64_t,numDistinct,4096,0.2,47905.8,9398.693216494396
+DenseMatrix,int64_t,numDistinct,4096,0.25,44899.6,1926.8816027745736
+DenseMatrix,int64_t,numDistinct,4096,1.0,43332.8,3356.772517364461
+DenseMatrix,int64_t,numDistinctApprox,1024,0.001,24685.0,18778.357347400404
+DenseMatrix,int64_t,numDistinctApprox,1024,0.01,60662.4,9839.384806875772
+DenseMatrix,int64_t,numDistinctApprox,1024,0.05,75441.4,10412.681106334825
+DenseMatrix,int64_t,numDistinctApprox,1024,0.1,83876.2,5855.355550453127
+DenseMatrix,int64_t,numDistinctApprox,1024,0.2,84219.3,13193.935004387431
+DenseMatrix,int64_t,numDistinctApprox,1024,0.25,85672.4,12983.46012946215
+DenseMatrix,int64_t,numDistinctApprox,1024,1.0,94036.3,15061.245094243997
+DenseMatrix,int64_t,numDistinctApprox,2048,0.001,33784.3,12377.209863741955
+DenseMatrix,int64_t,numDistinctApprox,2048,0.01,73146.7,6402.301739739128
+DenseMatrix,int64_t,numDistinctApprox,2048,0.05,82549.5,6866.93721554393
+DenseMatrix,int64_t,numDistinctApprox,2048,0.1,90766.8,14819.414284422084
+DenseMatrix,int64_t,numDistinctApprox,2048,0.2,93238.1,8556.986066626756
+DenseMatrix,int64_t,numDistinctApprox,2048,0.25,93586.5,6703.478222369174
+DenseMatrix,int64_t,numDistinctApprox,2048,1.0,122986.9,16068.522828118887
+DenseMatrix,int64_t,numDistinctApprox,4096,0.001,64514.1,11331.281171557295
+DenseMatrix,int64_t,numDistinctApprox,4096,0.01,78850.3,3209.9560415820165
+DenseMatrix,int64_t,numDistinctApprox,4096,0.05,93971.4,10459.188084061678
+DenseMatrix,int64_t,numDistinctApprox,4096,0.1,99745.8,9636.999738277238
+DenseMatrix,int64_t,numDistinctApprox,4096,0.2,112004.3,12234.727895534817
+DenseMatrix,int64_t,numDistinctApprox,4096,0.25,106698.1,11892.612463673031
+DenseMatrix,int64_t,numDistinctApprox,4096,1.0,164116.1,19624.84557589633
+DenseMatrix,int64_t,sparsity,1024,0.001,3313.3,470.1621587873226
+DenseMatrix,int64_t,sparsity,1024,0.01,4912.7,203.17811015078485
+DenseMatrix,int64_t,sparsity,1024,0.05,5087.2,222.62963763963583
+DenseMatrix,int64_t,sparsity,1024,0.1,4846.4,196.26524003104677
+DenseMatrix,int64_t,sparsity,1024,0.2,4618.9,181.47326096272258
+DenseMatrix,int64_t,sparsity,1024,0.25,4500.6,188.16907291050782
+DenseMatrix,int64_t,sparsity,1024,1.0,4245.4,182.548745392688
+DenseMatrix,int64_t,sparsity,2048,0.001,5755.2,482.28156828880674
+DenseMatrix,int64_t,sparsity,2048,0.01,8179.5,378.91049954661673
+DenseMatrix,int64_t,sparsity,2048,0.05,8231.5,551.7215984735619
+DenseMatrix,int64_t,sparsity,2048,0.1,7840.4,290.6476293459907
+DenseMatrix,int64_t,sparsity,2048,0.2,7546.6,459.5969732034554
+DenseMatrix,int64_t,sparsity,2048,0.25,6939.6,306.9951863538652
+DenseMatrix,int64_t,sparsity,2048,1.0,6283.3,141.33494495936466
+DenseMatrix,int64_t,sparsity,4096,0.001,11363.8,708.8919052530742
+DenseMatrix,int64_t,sparsity,4096,0.01,14304.3,320.5956435553464
+DenseMatrix,int64_t,sparsity,4096,0.05,14822.5,695.3744395008425
+DenseMatrix,int64_t,sparsity,4096,0.1,14152.7,518.403542940568
+DenseMatrix,int64_t,sparsity,4096,0.2,12745.3,649.7208032857054
+DenseMatrix,int64_t,sparsity,4096,0.25,12097.6,655.0175909427504
+DenseMatrix,int64_t,sparsity,4096,1.0,10918.2,303.5170871997522
+DenseMatrix,int64_t,symmetry,1024,0.001,5395.3,3154.913207117502
+DenseMatrix,int64_t,symmetry,1024,0.01,6870.3,5630.48397465874
+DenseMatrix,int64_t,symmetry,1024,0.05,8447.9,8025.7890086340485
+DenseMatrix,int64_t,symmetry,1024,0.1,10253.0,7209.487221710016
+DenseMatrix,int64_t,symmetry,1024,0.2,11369.8,7974.674912217773
+DenseMatrix,int64_t,symmetry,1024,0.25,10806.4,7607.919487831961
+DenseMatrix,int64_t,symmetry,1024,1.0,14787.6,4512.0753096551925
+DenseMatrix,int64_t,symmetry,2048,0.001,8926.9,2952.056663488092
+DenseMatrix,int64_t,symmetry,2048,0.01,11086.4,7548.370378947881
+DenseMatrix,int64_t,symmetry,2048,0.05,14130.9,7961.439518774925
+DenseMatrix,int64_t,symmetry,2048,0.1,14391.9,7728.483571970781
+DenseMatrix,int64_t,symmetry,2048,0.2,16140.4,6433.46119389348
+DenseMatrix,int64_t,symmetry,2048,0.25,15831.4,6311.793391915028
+DenseMatrix,int64_t,symmetry,2048,1.0,16607.9,4990.144185180313
+DenseMatrix,int64_t,symmetry,4096,0.001,18674.5,6288.930968155259
+DenseMatrix,int64_t,symmetry,4096,0.01,17678.5,7469.953283358308
+DenseMatrix,int64_t,symmetry,4096,0.05,20846.1,7273.411005543105
+DenseMatrix,int64_t,symmetry,4096,0.1,22344.0,6429.55179015009
+DenseMatrix,int64_t,symmetry,4096,0.2,21787.1,5441.565633569483
+DenseMatrix,int64_t,symmetry,4096,0.25,21024.1,5355.078927730405
+DenseMatrix,int64_t,symmetry,4096,1.0,20161.1,4622.180953474958

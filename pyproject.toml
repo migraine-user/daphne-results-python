@@ -1,0 +1,21 @@
+[project]
+name = "benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [{ name = "migraine-user", email = "mj9012159@gmail.com" }]
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter-server>=2.21.0",
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.5",
+    "tornado<6.5",
+]
+
+[project.scripts]
+benchmark = "benchmark:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
